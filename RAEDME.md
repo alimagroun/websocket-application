@@ -1,1 +1,0 @@
-The application features a form where users can input a task and the number of days to complete it. Upon submitting the form, the task is added, and subsequent tasks are dynamically updated using WebSocket communication.
